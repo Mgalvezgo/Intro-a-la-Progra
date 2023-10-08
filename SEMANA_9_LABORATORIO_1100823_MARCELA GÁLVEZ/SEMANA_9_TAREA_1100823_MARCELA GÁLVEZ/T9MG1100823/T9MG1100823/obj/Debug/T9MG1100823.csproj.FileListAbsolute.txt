@@ -1,0 +1,7 @@
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\bin\Debug\T9MG1100823.exe.config
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\bin\Debug\T9MG1100823.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\bin\Debug\T9MG1100823.pdb
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\obj\Debug\T9MG1100823.csproj.AssemblyReference.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\obj\Debug\T9MG1100823.csproj.CoreCompileInputs.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\obj\Debug\T9MG1100823.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_9_TAREA_1100823_MARCELA GÁLVEZ\T9MG1100823\T9MG1100823\obj\Debug\T9MG1100823.pdb
