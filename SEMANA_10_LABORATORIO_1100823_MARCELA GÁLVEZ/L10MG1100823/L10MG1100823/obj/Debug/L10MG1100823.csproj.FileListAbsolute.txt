@@ -1,0 +1,7 @@
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\bin\Debug\L10MG1100823.exe.config
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\bin\Debug\L10MG1100823.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\bin\Debug\L10MG1100823.pdb
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\obj\Debug\L10MG1100823.csproj.AssemblyReference.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\obj\Debug\L10MG1100823.csproj.CoreCompileInputs.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\obj\Debug\L10MG1100823.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA_10_LABORATORIO_1100823_MARCELA GÁLVEZ\L10MG1100823\L10MG1100823\obj\Debug\L10MG1100823.pdb
