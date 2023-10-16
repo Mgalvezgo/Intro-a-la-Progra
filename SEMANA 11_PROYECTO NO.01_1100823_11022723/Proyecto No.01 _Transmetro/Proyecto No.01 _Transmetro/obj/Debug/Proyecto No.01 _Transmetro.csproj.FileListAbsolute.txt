@@ -1,0 +1,7 @@
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\bin\Debug\Proyecto No.01 _Transmetro.exe.config
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\bin\Debug\Proyecto No.01 _Transmetro.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\bin\Debug\Proyecto No.01 _Transmetro.pdb
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\obj\Debug\Proyecto No.01 _Transmetro.csproj.AssemblyReference.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\obj\Debug\Proyecto No.01 _Transmetro.csproj.CoreCompileInputs.cache
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\obj\Debug\Proyecto No.01 _Transmetro.exe
+C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\SEMANA 11_PROYECTO NO.01_1100823_11022723\Proyecto No.01 _Transmetro\Proyecto No.01 _Transmetro\obj\Debug\Proyecto No.01 _Transmetro.pdb
