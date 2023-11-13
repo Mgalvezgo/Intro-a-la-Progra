@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marcela Gálvez\\OneDrive - Universidad Rafael Landivar\\Escritorio\\2do. Ciclo 2023\\Intro a la Progra\\SEMANA 15 _ LABORATORIO_ 1100823 _ MARCELA GÁLVEZ\\FINAL_MG_1100823\\FINAL_MG_1100823.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marcela Gálvez\\OneDrive - Universidad Rafael Landivar\\Escritorio\\2do. Ciclo 2023\\Intro a la Progra\\SEMANA 15 _ LABORATORIO_ 1100823 _ MARCELA GÁLVEZ\\FINAL_MG_1100823\\FINAL_MG_1100823.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marcela Gálvez\\OneDrive - Universidad Rafael Landivar\\Escritorio\\2do. Ciclo 2023\\Intro a la Progra\\SEMANA 15 _ LABORATORIO_ 1100823 _ MARCELA GÁLVEZ\\FINAL_MG_1100823\\FINAL_MG_1100823.csproj",
+        "projectName": "FINAL_MG_1100823",
+        "projectPath": "C:\\Users\\Marcela Gálvez\\OneDrive - Universidad Rafael Landivar\\Escritorio\\2do. Ciclo 2023\\Intro a la Progra\\SEMANA 15 _ LABORATORIO_ 1100823 _ MARCELA GÁLVEZ\\FINAL_MG_1100823\\FINAL_MG_1100823.csproj",
+        "packagesPath": "C:\\Users\\Marcela Gálvez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcela Gálvez\\OneDrive - Universidad Rafael Landivar\\Escritorio\\2do. Ciclo 2023\\Intro a la Progra\\SEMANA 15 _ LABORATORIO_ 1100823 _ MARCELA GÁLVEZ\\FINAL_MG_1100823\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcela Gálvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
