@@ -1,7 +1,0 @@
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\bin\Debug\Segundo Proyecto Marcela Gálvez 1100823.exe.config
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\bin\Debug\Segundo Proyecto Marcela Gálvez 1100823.exe
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\bin\Debug\Segundo Proyecto Marcela Gálvez 1100823.pdb
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\obj\Debug\Segundo Proyecto Marcela Gálvez 1100823.csproj.AssemblyReference.cache
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\obj\Debug\Segundo Proyecto Marcela Gálvez 1100823.csproj.CoreCompileInputs.cache
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\obj\Debug\Segundo Proyecto Marcela Gálvez 1100823.exe
-C:\Users\Marcela Gálvez\OneDrive - Universidad Rafael Landivar\Escritorio\Nueva carpeta\Segundo Proyecto Marcela Gálvez 1100823\obj\Debug\Segundo Proyecto Marcela Gálvez 1100823.pdb
